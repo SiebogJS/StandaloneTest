@@ -1,0 +1,9 @@
+[submodule "AgentManager"]
+	path = AgentManager
+	url = https://github.com/SiebogJS/AgentManager.git
+[submodule "ClientApp"]
+	path = ClientApp
+	url = https://github.com/SiebogJS/ClientApp.git
+[submodule "RestWS"]
+	path = RestWS
+	url = https://github.com/SiebogJS/RestWS.git

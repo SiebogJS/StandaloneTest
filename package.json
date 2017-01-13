@@ -1,0 +1,24 @@
+{
+  "name": "siebogjs-standalone-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiebogJS/standaloneTest.git"
+  },
+
+  "author": "Aleksandar Lukić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiebogJS/standaloneTest/issues"
+  },
+  "homepage": "https://github.com/SiebogJS/standaloneTest#readme",
+  "dependencies": {
+    "siebogjs-agent":"file:./AgentManager",
+    "siebogjs-restws" : "file:./RestWS"
+  }
+}
