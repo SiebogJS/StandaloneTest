@@ -1,4 +1,3 @@
-require("nodesentry");
 var Policy = require("nodesentry").Policy;
 var Agent = process.DependencyService.get('Agent');
 var util  = require('util');

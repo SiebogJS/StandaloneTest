@@ -1,0 +1,24 @@
+
+E:\testing_siebog\StandaloneTest\Upload\uploads\index-test - Copy.js
+  1:16  error  Extra semicolon                                   semi
+  2:5   error  'fs' is assigned a value but never used           no-unused-vars
+  2:32  error  Extra semicolon                                   semi
+  4:1   error  Expected indentation of 4 spaces but found 1 tab  indent
+  4:2   error  Unexpected console statement                      no-console
+  4:14  error  Strings must use singlequote                      quotes
+  4:22  error  Extra semicolon                                   semi
+  6:1   error  Unreachable code                                  no-unreachable
+
+E:\testing_siebog\StandaloneTest\Upload\uploads\index-test.js
+  1:16  error  Extra semicolon                                   semi
+  2:5   error  'fs' is assigned a value but never used           no-unused-vars
+  2:32  error  Extra semicolon                                   semi
+  4:1   error  Expected indentation of 4 spaces but found 1 tab  indent
+  4:2   error  Unexpected console statement                      no-console
+  4:14  error  Strings must use singlequote                      quotes
+  4:22  error  Extra semicolon                                   semi
+  6:1   error  Unreachable code                                  no-unreachable
+
+✖ 16 problems (16 errors, 0 warnings)
+  10 errors, 0 warnings potentially fixable with the `--fix` option.
+

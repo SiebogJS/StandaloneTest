@@ -17,14 +17,12 @@
   },
   "homepage": "https://github.com/SiebogJS/standaloneTest#readme",
   "dependencies": {
-    "eslint-plugin-testagents": "file:ClientApp/eslint-plugin-testagents",
+    "nodesentry": "file:nodesentry",
     "siebogjs-agent": "file:./AgentManager",
     "siebogjs-restws": "file:./RestWS"
   },
   "devDependencies": {
-    "eslint": "^4.15.0",
     "file-system": "^2.2.2",
-    "nodesentry": "file:nodesentry",
     "require": "^2.4.20"
   }
 }

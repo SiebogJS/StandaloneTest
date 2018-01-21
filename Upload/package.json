@@ -1,0 +1,16 @@
+{
+  "name": "lintagent",
+  "version": "1.0.0",
+  "description": "Application for static check of uploaded agent files",
+  "main": "uploadAgentFiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aleksandra Aleksic",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.16.0",
+    "eslint-plugin-testagents": "file:eslint-plugin-testagents",
+    "formidable": "^1.1.1"
+  }
+}
