@@ -18,9 +18,9 @@ $ node index.js
 
 ## Testing NodeSentry
 
-Navigate to AgentExamples and create a test agent, insert text in input field and click confirm. 
+Navigate to the Agent Runner and create a siebog@test agent, insert text in the input field and click confirm. 
 Check for the results in the open console.
 
 ## Testing ESLint
 
-Go to Upload folder for further instructions
+Go to the Upload folder for further instructions
